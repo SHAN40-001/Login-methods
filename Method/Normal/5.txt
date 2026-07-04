@@ -1,0 +1,32 @@
+https://m.facebook.com/async/wbloks/fetch/?appid=com.bloks.www.bloks.caa.login.async.send_login_request&type=action&__bkv=2c4733784ae1256fe36c8fac264a2939b8558cfc1bad5ac672c9bc60482cab5a
+
+{
+    "Host": "m.facebook.com",
+    "user-agent": "Mozilla/5.0 (Linux; Android 6; X687B; Windows 10 Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Kiwi Chrome/85.0.4731.80 Mobile Safari/537.36",
+    "accept-encoding": "gzip, deflate, br, zstd",
+    "accept": "*/*",
+    "Connection": "keep-alive",
+    "authority": "x.facebook.com",
+    "method": "POST",
+    "path": "/async/wbloks/fetch/?appid=com.bloks.www.bloks.caa.login.async.send_login_request&type=action&__bkv=2c4733784ae1256fe36c8fac264a2939b8558cfc1bad5ac672c9bc60482cab5a",
+    "scheme": "https",
+    "Content-Length": "3082",
+    "sec-ch-ua-full-version-list": "\"Chromium\";v=\"130.0.0.0\", \"Mises\";v=\"130.0.0.0\", \"Not?A_Brand\";v=\"99.0.0.0\"",
+    "sec-ch-ua-platform": "\"Android\"",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"Mises\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-model": "\"\"",
+    "sec-ch-ua-mobile": "?1",
+    "sec-ch-prefers-color-scheme": "light",
+    "content-type": "application/x-www-form-urlencoded;charset=UTF-8",
+    "sec-ch-ua-platform-version": "10",
+    "origin": "https://m.facebook.com",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-dest": "empty",
+    "referer": "https://www.facebook.com/login/",
+    "accept-language": "fa-AF,en-GB;q=0.9,en-US;q=0.8,en;q=0.7",
+    "priority": "u=1, i",
+    "Cookie": "datr=Ok-nZ0_1GiyMHLcQk8_Su3Mo; fr=0fVDhZeyyOTo8iYxh..Bnp086..AAA.0.0.Bnp086.AWVf0Dey_ls; sb=Ok-nZ2pHTq8czTEBncjLz-tn"
+  }
+
+aaid=0&user=0&a=1&req=1&hs=20122.BP%3Awbloks_caa_pkg.2.0...0&dpr=3&ccg=EXCELLENT&rev=1019778292&s=lwtqhm%3A32ilbh%3An8ff35&hsi=7467076295174474915&dyn=0wzpawlE72fDg9ppo5S12wAxu13wqobE6u7E39x60lW4o3Bw4Ewk9E4W099w2s8hw73wGw6tw5Uw64w8W1uwf20n6aw8m0zE2ZwrU6q3a0le0iS2eU2dwde&csr=&fb_dtsg=NAcOknTaT3AWiFEcFa07S3J4igr8FqfRi8cXad-ZhS0ljG4PVzeL-0w%3A0%3A0&jazoest=21023&lsd=AVok3dQoLxs&params=%7B%22params%22%3A%22%7B%5C%22server_params%5C%22%3A%7B%5C%22credential_type%5C%22%3A%5C%22password%5C%22%2C%5C%22username_text_input_id%5C%22%3A%5C%22o83gr9%3A68%5C%22%2C%5C%22password_text_input_id%5C%22%3A%5C%22o83gr9%3A69%5C%22%2C%5C%22login_source%5C%22%3A%5C%22Login%5C%22%2C%5C%22login_credential_type%5C%22%3A%5C%22none%5C%22%2C%5C%22server_login_source%5C%22%3A%5C%22login%5C%22%2C%5C%22ar_event_source%5C%22%3A%5C%22login_home_page%5C%22%2C%5C%22should_trigger_override_login_success_action%5C%22%3A0%2C%5C%22should_trigger_override_login_2fa_action%5C%22%3A0%2C%5C%22is_caa_perf_enabled%5C%22%3A0%2C%5C%22reg_flow_source%5C%22%3A%5C%22login_home_native_integration_point%5C%22%2C%5C%22caller%5C%22%3A%5C%22gslr%5C%22%2C%5C%22is_from_landing_page%5C%22%3A0%2C%5C%22is_from_empty_password%5C%22%3A0%2C%5C%22is_from_password_entry_page%5C%22%3A0%2C%5C%22is_from_assistive_id%5C%22%3A0%2C%5C%22is_from_msplit_fallback%5C%22%3A0%2C%5C%22INTERNALlatency_qpl_marker_id%5C%22%3A36707139%2C%5C%22INTERNAL__latency_qpl_instance_id%5C%22%3A%5C%22146478683700383%5C%22%2C%5C%22device_id%5C%22%3Anull%2C%5C%22family_device_id%5C%22%3Anull%2C%5C%22waterfall_id%5C%22%3A%5C%2268f855ee-aa53-47fe-9127-d01cf47cec66%5C%22%2C%5C%22offline_experiment_group%5C%22%3Anull%2C%5C%22layered_homepage_experiment_group%5C%22%3Anull%2C%5C%22is_platform_login%5C%22%3A0%2C%5C%22is_from_logged_in_switcher%5C%22%3A0%2C%5C%22is_from_logged_out%5C%22%3A0%2C%5C%22access_flow_version%5C%22%3A%5C%22F2_FLOW%5C%22%7D%2C%5C%22client_input_params%5C%22%3A%7B%5C%22machine_id%5C%22%3A%5C%22%5C%22%2C%5C%22contact_point%5C%22%3A%5C%2201718717447%5C%22%2C%5C%22password%5C%22%3A%5C%22%23PWD_BROWSER%3A0%3ANone%3A717447%5C%22%2C%5C%22accounts_list%5C%22%3A%5B%5D%2C%5C%22fb_ig_device_id%5C%22%3A%5B%5D%2C%5C%22secure_family_device_id%5C%22%3A%5C%22%5C%22%2C%5C%22encrypted_msisdn%5C%22%3A%5C%22%5C%22%2C%5C%22headers_infra_flow_id%5C%22%3A%5C%22%5C%22%2C%5C%22try_num%5C%22%3A1%2C%5C%22login_attempt_count%5C%22%3A1%2C%5C%22event_flow%5C%22%3A%5C%22login_manual%5C%22%2C%5C%22event_step%5C%22%3A%5C%22home_page%5C%22%2C%5C%22openid_tokens%5C%22%3A%7B%7D%2C%5C%22auth_secure_device_id%5C%22%3A%5C%22%5C%22%2C%5C%22client_known_key_hash%5C%22%3A%5C%22%5C%22%2C%5C%22has_whatsapp_installed%5C%22%3A0%2C%5C%22sso_token_map_json_string%5C%22%3A%5C%22%5C%22%2C%5C%22should_show_nested_nta_from_aymh%5C%22%3A0%2C%5C%22password_contains_non_ascii%5C%22%3A%5C%22false%5C%22%2C%5C%22has_granted_read_contacts_permissions%5C%22%3A0%2C%5C%22has_granted_read_phone_permissions%5C%22%3A0%2C%5C%22app_manager_id%5C%22%3A%5C%22%5C%22%2C%5C%22lois_settings%5C%22%3A%7B%5C%22lois_token%5C%22%3A%5C%22%5C%22%7D%7D%7D%22%7D
